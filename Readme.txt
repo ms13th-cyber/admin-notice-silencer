@@ -2,9 +2,9 @@
 Contributors: masato shibuya (Image-box Co., Ltd.)
 Tags: admin, notice, banner, mute, cleanup, interface, productivity
 Requires at least: 5.0
-Tested up to: 6.9.4
+Tested up to: 7.0.0
 Requires PHP: 8.3.23
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Admin Notice Silencer は、WordPress 管理画面の利便性を向上させる
 * **管理と解除**: 「設定」メニュー内の「Notice Silencer」ページを開くと、現在ミュートしている通知の識別IDが一覧表示されます。右側の「解除」ボタンを押すと、その通知が再び表示されるようになります。
 
 == Changelog ==
+
+= 1.0.1 =
+* Wordpress7.0.0での動作確認済み。
 
 = 1.0.0 =
 * 初版リリース。

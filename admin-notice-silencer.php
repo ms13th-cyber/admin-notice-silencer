@@ -3,8 +3,8 @@
  * Plugin Name:  Admin Notice Silencer
  * Plugin URI:   https://github.com/ms13th-cyber/admin-notice-silencer
  * Description:  管理画面の邪魔な通知（Admin Notice）をワンクリックで永続的にミュートし、設定画面からいつでも管理・解除できる軽量プラグインです。
- * Version:      1.0.0
- * Tested up to: 6.9.4
+ * Version:      1.0.1
+ * Tested up to: 7.0.0
  * Requires PHP: 8.3.23
  * Author:       masato shibuya (Image-box Co., Ltd.)
  * Author URI:   https://github.com/ms13th-cyber
