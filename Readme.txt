@@ -46,7 +46,7 @@ Admin Notice Silencer は、WordPress 管理画面の利便性を向上させる
 == Changelog ==
 
 = 1.0.1 =
-* Wordpress7.0.0での動作確認済み。
+* Wordpress7.0.0での動作確認。
 
 = 1.0.0 =
 * 初版リリース。
